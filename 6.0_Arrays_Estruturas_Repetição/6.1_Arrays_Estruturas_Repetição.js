@@ -32,4 +32,45 @@
     
 // }
 
-console.log(nomeComV);
+// console.log(nomeComV);
+
+// -----------------------------------------------------
+
+//4) 
+
+// const numerosParesAcimaDe10 = [];
+
+// for (let i = 0; i <= 50; i++) {
+//     const numeroPar = i % 2 === 0;
+//     if (numeroPar) {
+//         numerosParesAcimaDe10.push(i)
+//     }
+// }
+
+// console.log(numerosParesAcimaDe10);
+
+// -----------------------------------------------------
+
+//5)
+
+// const listaDeMedias = [2,7,3,8,10,4]
+// let recuperacao = []
+// for (let index = 0; index < listaDeMedias.length; index++) {
+//     if (listaDeMedias[index] < 5) {
+//         recuperacao.push(listaDeMedias[index])
+//     };
+    
+// }
+// console.log(recuperacao);
+
+//6
+
+// const listaDeNotas = [,2,3,4,5,10,2,8,5,7];
+// let maiorNota = 0
+// for (let index = 0; index < listaDeNotas.length; index++) {
+//     if (listaDeNotas[index] > maiorNota) {
+//         maiorNota = listaDeNotas[index];
+//     }
+    
+// }
+// console.log(maiorNota)
