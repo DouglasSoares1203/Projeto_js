@@ -9,6 +9,8 @@ http-server
 
 npm install typerscript -D
 
+npm run start
+
 npx tsc scr/index.ts -> roda o codigo em TyperScript 
 
 npx tsc --init -> Configura o arquivo TSConfig 
