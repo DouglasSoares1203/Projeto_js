@@ -1,6 +1,8 @@
 Estudando e desenvolvendo JavaScript com uso do Framework Angular
 
 
+ctrl + alt + shift + para baixo ou para cima -> seleciona as linhas de texto
+
 https://pokeapi.co/ -> para criação de API´s
 
 https://github.com/felipeAguiarCode/angular-playground
