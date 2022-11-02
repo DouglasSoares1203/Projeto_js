@@ -20,6 +20,7 @@ npx tsc scr/index.ts -> roda o codigo em TyperScript
 npx tsc --init -> Configura o arquivo TSConfig 
 
 ng generate component title -> gerar arquivos de atualização
+
 ng generate module tittle -> gerar arquivos modulos
 
 ng serve -> serve para rodar a pagina trabalhada
