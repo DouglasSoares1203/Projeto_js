@@ -33,6 +33,16 @@ http-server
 
 ng new projeto -> criar um projeto angular
 
+Step 2: Create a workspace for Angular Project
+
+To create a new workspace:
+
+ng new angular-material-app
+
+Step 3: Install Angular Material, Angular CDK and Angular Animations
+
+npm install @angular/material @angular/cdk @angular/animations --save
+
 ng help -> serve para dar suporte
 
 npm install -g @angular/cli@14.1.2 -> instalação do angular
